@@ -1,0 +1,5 @@
+print("Hello World")
+print("My name is Girish Hakki")
+print("I am a Software Developer")
+print("I love Coding")
+print("--------------")
